@@ -1,0 +1,32 @@
+
+Editores de texto
+
+nano
+
+nano + enter - abre o editor vazio para criar o arquivo
+
+CTRL + O - Salva o arquivo
+
+CTRL + X - Sai do editor
+
+nano + nome do arquivo - abre o editor para editar o arquivo
+
+CTRL + R - cópia dados de um arquivo para outro
+
+ALT + A - permite você selecionar a linha a ser copiada
+
+ALT + 6 - permite você copiar a linha selecionada
+
+CTRL + U - cola os dados selecionados anteriormente
+
+CTRL + K - recorta os dados selecionados anteriormente
+
+ALT + / - vai até o final do arquivo
+
+ALT + \ - vai até o início do arquivo
+
+ALT + G - vai até a linha especificada do arquivo
+
+CTRL + W - busca por palavras ou sentenças
+
+ALT + R - substitui uma palavra ou sentença
