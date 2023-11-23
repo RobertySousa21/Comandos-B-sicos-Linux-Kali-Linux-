@@ -1,0 +1,15 @@
+Compactar e descompactar arquivos
+
+tar -czvf + nome do arquivo.tar.gz + nome do arquivo que será compactado - realiza compactação de arquivos
+
+tar -xzvf + nome do arquivo compactado.tar.gz - descompacta arquivos
+
+tar -xzvf + nome do arquivo compactado.tar.gz -C + nome do diretório - descompacta arquivos em um diretório especifico
+
+zip -r + nome do arquivo .zip + arquivo a ser compactado
+
+unzip -r + nome do arquivo .zip -d + nome do diretório onde será descompactado
+
+Tar -tvf + nome do arquivo compactado .tar. gz - verifica o conteúdo do arquivo compactado
+
+sudo ufa app list - mostra as aplicações para liberar no firewall
