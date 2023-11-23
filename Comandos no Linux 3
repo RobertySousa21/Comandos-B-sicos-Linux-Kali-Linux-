@@ -1,0 +1,58 @@
+vim
+Vim + nome do arquivo a ser criado - abre o editor vazio para criar o arquivo
+
+I + ENTER - modo de inserção
+
+Esc sai do modo de inserção
+
+: + X - Salva o arquivo e sai
+
+: + W - Salva o arquivo, mas não fecha o editor
+
+:q - fecha o editor
+
+Vim + nome do arquivo - abre o editor para editar o arquivo
+
+D+D - deleta a linha
+
+U - Desfaz as alterações
+
+CTRL + R - refaz todas as alterações
+
+/ + palavra a ser buscada - ele encontra a primeira ocorrência
+
+N - Navega em todas as ocorrências
+
+Shift + n - volta em todas as ocorrências da palavra
+
+:%s + palavra/palavra que irá substituir/g - substitui uma palavra ou sentença todas as ocorrências
+
+:s + palavra/palavra que irá substituir/g - substitui uma palavra ou sentença apenas de uma linha
+
+:q! - sai e perde todas as alterações no arquivo
+
+TCP - Transfer control protocol - serve para a transmissão de dados de forma segura na internet
+
+UDP - user dataram protocol - serve para a transmissão de dados de forma mais rápida na internet
+
+DNS - o endereço que é digitado para a busca de um site na web
+
+Ping - envio de requisições para verificar se um IP retorna
+
+Netstat - verificar o que o computador está conectado ou recebendo de outros computadores
+
+Netstat -at - verificar as conexões tcp
+
+Netstat -au - verificar as conexões udp
+
+Netcat -u + dns + porta - se conectar em um site através de uma porta especifica
+
+Ifconfig - verificar as interfaces de rede do computador
+
+Nslookup - verifica o ip através do dns
+
+CDN - server que replica o conteúdo de outros servidores que ficam mais longe da minha máquina
+
+Tcpdump - verifica todas as conexões tcp que o nosso computador está realizando ou recebendo
+
+hostname -I - verificar qual o ip da nossa máquina
